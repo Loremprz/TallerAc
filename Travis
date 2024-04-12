@@ -1,0 +1,6 @@
+language: java
+
+language: javajdk:- openjdk11 
+# Conf
+
+script: mvn test
