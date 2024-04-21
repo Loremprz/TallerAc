@@ -1,5 +1,5 @@
 Agenda - Tabla de contenido.
-- [Resumen ejecutivo](#resumen-ejecutivo)
+
 - [Descripción](#descripción)
 - [Problema identificado y solución](#problema-identificado-y-solución)
 - [Arquitectura](#arquitectura)
